@@ -1,0 +1,45 @@
+body{
+    background-color:lightslategrey;
+}
+
+#form{
+    background-color: rgb(250, 244, 244);
+    margin-top: 69px;
+    margin-right: 90px;
+    margin-bottom: 90px;
+    margin-left: 90px;
+    padding-left: 66px;
+    padding-right: 22px;
+}
+
+#firstheading{
+    font-size: 50px;
+}
+
+h3{
+    padding-left: 200px;
+    font-size: 30px;
+}
+
+#table{
+    padding-left: 150px;
+}
+
+td{
+    padding-top: 7px;
+    padding-bottom: 10px;
+}
+
+button{
+    background-color:lightslategrey;
+    height: 49px;
+    width: 122px;
+    margin-left: 340px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+input, select{
+    padding: 10px;
+}
